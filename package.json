@@ -1,6 +1,6 @@
 {
   "name": "babel-include-scss",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Include scss files as string providing the path to .scss file",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,9 @@
   },
   "author": "hrishi <hrishikesh.mk1@gmail.com>",
   "license": "MIT",
-  "devDependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.1.2"
+  },
   "dependencies": {
     "node-sass": "^4.9.3"
   }
