@@ -1,5 +1,5 @@
 {
-  "name": "babel_include_scss",
+  "name": "babel-include-scss",
   "version": "0.1.0",
   "description": "Include scss files as string providing the path to .scss file",
   "main": "index.js",
